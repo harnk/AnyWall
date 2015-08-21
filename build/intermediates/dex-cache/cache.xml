@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/pre-dexed/debug/classes-b8c8b47b0af39354f4bc281d4fdf152f07d22237.jar" />
+    </item>
+    <item
+        jar="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/pre-dexed/debug/classes-dbd593ba3d36e394a83495fbb3f9173d27f8cc6a.jar" />
+    </item>
+    <item
+        jar="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/pre-dexed/debug/classes-75325f8f655bf1579bd0d1c659430da0ea8df902.jar" />
+    </item>
+    <item
+        jar="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/pre-dexed/debug/classes-17acde1691cd29dd5f1b9b03ab82deb173da2ea2.jar" />
+    </item>
+    <item
+        jar="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/pre-dexed/debug/classes-7a59bd997cb6d823c8199cf7f162bfe4a07a4804.jar" />
+    </item>
+    <item
+        jar="/Users/scottnull/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-03d53511d451ec40409f65f04633d8afcfa966c8.jar" />
+    </item>
+    <item
+        jar="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/pre-dexed/debug/classes-675179b135186b8b5060bc0058034078f5d8303f.jar" />
+    </item>
+    <item
+        jar="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/pre-dexed/debug/classes-93edc56ed2f2c9c6a72ef0237eee5d4886416541.jar" />
+    </item>
+    <item
+        jar="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/pre-dexed/debug/classes-7987082a4c1c92b713807627e94fed3467f932b6.jar" />
+    </item>
+    <item
+        jar="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/pre-dexed/debug/classes-9b3e9da9efeabbf70c9879c1231f56e0810a3f47.jar" />
+    </item>
+    <item
+        jar="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/pre-dexed/debug/classes-715146a3e9b379be730667de9c2808b82424e6fe.jar" />
+    </item>
+    <item
+        jar="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/pre-dexed/debug/classes-da76ec9f6f7d7d888fa3138dbb6105b7f9cb0049.jar" />
+    </item>
+    <item
+        jar="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/pre-dexed/debug/classes-32c54b7a6cafc8102f3bfae6a11f27d4afa64a96.jar" />
+    </item>
+    <item
+        jar="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/pre-dexed/debug/classes-fdb85ea79ccbfd389c5bb21f7c56663486f6dea2.jar" />
+    </item>
+    <item
+        jar="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-59afe6b2e2c897018f251330c95fd86364631820.jar" />
+    </item>
+    <item
+        jar="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/pre-dexed/debug/classes-9a21301485143ac9eb2aa710f39d8e767e35840f.jar" />
+    </item>
+    <item
+        jar="/Users/scottnull/git/AnyWall/Anywall/app/libs/Parse-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2a812174191af5a4513a873602a765b0171f252c">
+        <dex dex="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/pre-dexed/debug/Parse-1.6.0-fb3daabb3e3eda924dd1eae272e46b4982fe9de4.jar" />
+    </item>
+    <item
+        jar="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/pre-dexed/debug/classes-03e9563073a168aef53dd8cd2f22c43e06c94785.jar" />
+    </item>
+    <item
+        jar="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/pre-dexed/debug/classes-135fdb10b9b45b3f5ec3065ef07bfb5d90fd54fa.jar" />
+    </item>
+    <item
+        jar="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/pre-dexed/debug/classes-66efc5420b9c29889496436ef594624894a420a3.jar" />
+    </item>
+    <item
+        jar="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/pre-dexed/debug/classes-ce69f38e29f7119fe19da3715db5fc565a524e54.jar" />
+    </item>
+    <item
+        jar="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/pre-dexed/debug/classes-d2d34dbefc0269096a1713f1e95aa5eb06f3670e.jar" />
+    </item>
+    <item
+        jar="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-9cd6313cb72baa884e5c4688abd19f38d4122bca.jar" />
+    </item>
+    <item
+        jar="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/pre-dexed/debug/classes-9747ff1da6bc49b840973bd0ba19ac85e24a2c7e.jar" />
+    </item>
+    <item
+        jar="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/pre-dexed/debug/classes-d7e68a8f9c14ad75655c290b9f7856c6b31e36ec.jar" />
+    </item>
+    <item
+        jar="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/pre-dexed/debug/classes-3d87c6be9fb095945edf3f2cfa8c0ce61aa033b2.jar" />
+    </item>
+    <item
+        jar="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/pre-dexed/debug/classes-4ae573aa1bcb006004daa413d241e0aec6cd2961.jar" />
+    </item>
+    <item
+        jar="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/Users/scottnull/git/AnyWall/Anywall/app/build/intermediates/pre-dexed/debug/classes-2d4a47e428695d48b4eefaf0b90da212839078d7.jar" />
+    </item>
+
+</items>
